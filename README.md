@@ -4,7 +4,7 @@ Proof of concept app
 It is a sample POC app using .NET Core to build a Web API layer using MongoDB .NET Driver v.2. All the calls to the database are asynchronous.  
 
 
-####How to run it
+####How to run this app
  - Download or clone this project locally 
  - Install the tools
  - Run first the MongoDB server
